@@ -1,0 +1,9 @@
+main code and changes for course project:
+main_track.py
+.py and .sh files under track_exps, track_tools and datasets 
+
+To run the code you should build environments use Python 3.8 and cuda 11.3
+cuda 11.3:\\
+conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit=11.3 -c pytorch
+
+setup requirements
