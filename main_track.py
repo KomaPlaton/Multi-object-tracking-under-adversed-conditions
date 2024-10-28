@@ -1,4 +1,4 @@
-# Modified by Xinzhu Niu for transfer learning in dml project
+# Modified by Xinzhu Niu for transfer learning in SSY340 dml project
 # ------------------------------------------------------------------------
 # Deformable DETR
 # Copyright (c) 2020 SenseTime. All Rights Reserved.

@@ -1,7 +1,4 @@
-"""
-https://github.com/xingyizhou/CenterTrack
-Modified by Rufeng Zhang
-"""
+# Modified by Xinzhu Niu for transfer learning in SSY340 dml project
 import os
 import numpy as np
 import json

@@ -1,3 +1,4 @@
+# Modified by Xinzhu Niu for transfer learning in SSY340 dml project
 import cv2
 import numpy as np
 import os
